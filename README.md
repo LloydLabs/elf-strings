@@ -17,22 +17,32 @@ go build
 
 # Arguments
 ```
-  -binary string
-        the path to the ELF you wish to parse
+-binary string
+    	the path to the ELF you wish to parse
   -demangle
-        demangle C++ symbols into their original source identifiers, prettify found C++ symbols (optional)
+    	demangle C++ symbols into their original source identifiers, prettify found C++ symbols (optional)
   -hex
-        output the strings as a hexadecimal literal (optional)
+    	output the strings as a hexadecimal literal (optional)
   -libs
-        show the linked libraries in the binary (optional)
-  -max uint
-        the maximum amount of strings that you wish to be output (optional)
+    	show the linked libraries in the binary (optional)
+  -max-count uint
+    	the maximum amount of strings that you wish to be output (optional)
+  -min uint
+    	the minimum length of the string
+  -no-color
+    	disable color output in the results
+  -no-human
+    	don't validate that its a human readable string, this could increase the amount of junk.
+  -no-info
+    	don't show any information about the binary
+  -no-trim
+    	disable triming whitespace and trailing newlines
   -offset
-        show the offset of the string in the section (default, recommended) (default true)
+    	show the offset of the string in the section (default, recommended) (default true)
   -output-file string
-        the path of the output file that you want to output to (optional)
+    	the path of the output file that you want to output to (optional)
   -output-format string
-        the format you want to output as (optional, plain/json/xml) (default "plain")
+    	the format you want to output as (optional, plain/json/xml) (default "plain")
 ```
 
 # Example
