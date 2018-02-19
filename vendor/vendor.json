@@ -1,0 +1,97 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "tJd2T/eyW6ejAev7WzGxTeUVOPQ=",
+			"path": "github.com/dustin/go-humanize",
+			"revision": "bb3d318650d48840a39aa21a027c6630e198e626",
+			"revisionTime": "2017-11-10T20:55:13Z"
+		},
+		{
+			"checksumSHA1": "p5z5hdUt68Z3tK7Is+yLGrCNzoA=",
+			"path": "github.com/fatih/color",
+			"revision": "5df930a27be2502f99b292b7cc09ebad4d0891f4",
+			"revisionTime": "2017-09-26T11:14:11Z"
+		},
+		{
+			"checksumSHA1": "Pbj2LwBw5wZRiWOk2hG1AxAfTAw=",
+			"path": "github.com/ianlancetaylor/demangle",
+			"revision": "4883227f66371e02c4948937d3e2be1664d9be38",
+			"revisionTime": "2016-09-27T19:13:59Z"
+		},
+		{
+			"checksumSHA1": "SEnjvwVyfuU2xBaOfXfwPD5MZqk=",
+			"path": "github.com/mattn/go-colorable",
+			"revision": "7dc3415be66d7cc68bf0182f35c8d31f8d2ad8a7",
+			"revisionTime": "2018-02-05T07:01:58Z"
+		},
+		{
+			"checksumSHA1": "w5RcOnfv5YDr3j2bd1YydkPiZx4=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "6ca4dbf54d38eea1a992b3c722a76a5d1c4cb25c",
+			"revisionTime": "2017-11-07T05:05:31Z"
+		},
+		{
+			"checksumSHA1": "dOtGHq3CHVndmJHolm8pGAt9iB4=",
+			"path": "github.com/shawnsmithdev/zermelo",
+			"revision": "2fd486927496084c394918a3c6215f17345f2ffa",
+			"revisionTime": "2017-08-25T04:02:16Z"
+		},
+		{
+			"checksumSHA1": "T2PR4Bi8j0i7tfIZoUzzCLL4DwA=",
+			"path": "github.com/shawnsmithdev/zermelo/zfloat32",
+			"revision": "2fd486927496084c394918a3c6215f17345f2ffa",
+			"revisionTime": "2017-08-25T04:02:16Z"
+		},
+		{
+			"checksumSHA1": "d2Yakyjtk0jI6AS1f673fa5JI0A=",
+			"path": "github.com/shawnsmithdev/zermelo/zfloat64",
+			"revision": "2fd486927496084c394918a3c6215f17345f2ffa",
+			"revisionTime": "2017-08-25T04:02:16Z"
+		},
+		{
+			"checksumSHA1": "ZssRnz4O0dv26Hm7HqjEziR/4r4=",
+			"path": "github.com/shawnsmithdev/zermelo/zint",
+			"revision": "2fd486927496084c394918a3c6215f17345f2ffa",
+			"revisionTime": "2017-08-25T04:02:16Z"
+		},
+		{
+			"checksumSHA1": "2n86ycFpQF5b3ED+mh99EjgHFaM=",
+			"path": "github.com/shawnsmithdev/zermelo/zint32",
+			"revision": "2fd486927496084c394918a3c6215f17345f2ffa",
+			"revisionTime": "2017-08-25T04:02:16Z"
+		},
+		{
+			"checksumSHA1": "lLuKnEW/7csbTPr8I/FVOMrGBrw=",
+			"path": "github.com/shawnsmithdev/zermelo/zint64",
+			"revision": "2fd486927496084c394918a3c6215f17345f2ffa",
+			"revisionTime": "2017-08-25T04:02:16Z"
+		},
+		{
+			"checksumSHA1": "0/kZ0wJw/4ZnZW1Sa7fXFKsMC88=",
+			"path": "github.com/shawnsmithdev/zermelo/zuint",
+			"revision": "2fd486927496084c394918a3c6215f17345f2ffa",
+			"revisionTime": "2017-08-25T04:02:16Z"
+		},
+		{
+			"checksumSHA1": "Nl1yyam1ifS2NgOdrwB7OGk9pRU=",
+			"path": "github.com/shawnsmithdev/zermelo/zuint32",
+			"revision": "2fd486927496084c394918a3c6215f17345f2ffa",
+			"revisionTime": "2017-08-25T04:02:16Z"
+		},
+		{
+			"checksumSHA1": "1aQhx7CVMbHhd1FeSxdJJvB+/dI=",
+			"path": "github.com/shawnsmithdev/zermelo/zuint64",
+			"revision": "2fd486927496084c394918a3c6215f17345f2ffa",
+			"revisionTime": "2017-08-25T04:02:16Z"
+		},
+		{
+			"checksumSHA1": "CNHEeGnucEUlTHJrLS2kHtfNbws=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "37707fdb30a5b38865cfb95e5aab41707daec7fd",
+			"revisionTime": "2018-02-02T13:35:31Z"
+		}
+	],
+	"rootPath": "elf-strings"
+}
